@@ -2,6 +2,8 @@
 
 Every contract announcement the US Department of Defense has published in its daily 5 pm ET release since July 2014, as one CSV: `dod_contract_awards.csv`. About 41,000 awards, updated each weekday evening shortly after the release.
 
+Need this data in your own tool or automated? [pushbuild.com/apis](https://pushbuild.com/apis/?utm_source=github&utm_medium=readme&utm_campaign=us-defense-contract-awards)
+
 | column | meaning |
 |---|---|
 | releaseDate | date of the daily release (YYYY-MM-DD) |
